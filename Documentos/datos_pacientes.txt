@@ -1,0 +1,5 @@
+Paciente	Edad	Leucocitos
+Ana	28	5600	Normal
+Luis	34	6700	Leve
+María	41	7200	Leve
+Pedro	23	4500	Bajo
